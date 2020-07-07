@@ -1,0 +1,13 @@
+main: fr.Culvanen.BankingChest.Main
+name: BankingChest
+description: 'BankingChest vous permet de stocker vos items dans des coffres geres par des NPCs.'
+version: 0.1
+author: 'Culvanen'
+api-version: 1.13
+commands:
+  createnpc:
+    description: Creer un NPC de stockage
+    usage: Erreur! Utiliser /<command> pour creer un NPC de stockage.
+  inv:
+    description: Open inventory
+    usage: Erreur! Utiliser /<command> pour creer un NPC de stockage.
